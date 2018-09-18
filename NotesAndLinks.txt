@@ -1,6 +1,26 @@
 
 
 
+
+https://docs.microsoft.com/en-us/visualstudio/vsto/combining-vba-and-document-level-customizations
+
+https://docs.microsoft.com/en-us/visualstudio/vsto/how-to-add-an-actions-pane-to-word-documents-or-excel-workbooks
+
+alternative functions to UsedRange
+https://stackoverflow.com/questions/7423022/getting-the-actual-usedrange/7423252#7423252
+
+msdn vb docs - sub main
+https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/program-structure/main-procedure
+
+
+https://git-scm.com/download/win
+
+youtube tutorial - visual studio and github
+https://www.youtube.com/watch?v=c3482qAzZLQ
+
+	
+	
+
 https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins
 
 You can use the Office Add-ins platform to build solutions that extend Office applications and interact with content in Office documents. With Office Add-ins, you can use familiar web technologies such as HTML, CSS, and JavaScript to extend and interact with Word, Excel, PowerPoint, OneNote, Project, and Outlook. Your solution can run in Office across multiple platforms, including Office for Windows, Office Online, Office for the Mac, and Office for the iPad.
