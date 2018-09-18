@@ -1,0 +1,12 @@
+
+
+
+https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins
+
+You can use the Office Add-ins platform to build solutions that extend Office applications and interact with content in Office documents. With Office Add-ins, you can use familiar web technologies such as HTML, CSS, and JavaScript to extend and interact with Word, Excel, PowerPoint, OneNote, Project, and Outlook. Your solution can run in Office across multiple platforms, including Office for Windows, Office Online, Office for the Mac, and Office for the iPad.
+
+
+Updating the GitHub extension to the latest version (2.5.5.3913) seems to solve the issue.
+
+https://blogs.msdn.microsoft.com/benjaminperkins/2017/04/04/setting-up-and-using-github-in-visual-studio-2017/
+
