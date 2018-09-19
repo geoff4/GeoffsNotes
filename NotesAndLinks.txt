@@ -19,10 +19,9 @@ https://docs.microsoft.com/en-us/visualstudio/vsto/combining-vba-and-document-le
 
 https://docs.microsoft.com/en-us/visualstudio/vsto/how-to-add-an-actions-pane-to-word-documents-or-excel-workbooks
 
-https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins
-You can use the Office Add-ins platform to build solutions that extend Office applications and interact with content in Office documents. With Office Add-ins, you can use familiar web technologies such as HTML, CSS, and JavaScript to extend and interact with Word, Excel, PowerPoint, OneNote, Project, and Outlook. Your solution can run in Office across multiple platforms, including Office for Windows, Office Online, Office for the Mac, and Office for the iPad.
-
-
+Excel DNA
+=========
+https://colinlegg.wordpress.com/2016/09/07/my-first-c-net-udf-using-excel-dna-and-visual-studio/
 
 Github
 ======
@@ -36,6 +35,8 @@ Updating the GitHub extension to the latest version (2.5.5.3913) seems to solve 
 https://blogs.msdn.microsoft.com/benjaminperkins/2017/04/04/setting-up-and-using-github-in-visual-studio-2017/
 
 
+Assemble Disassemble workbooks into text file constituents for the purpose of storing in github and performing diffs
+====================================================================================================================
 
 
 Acer I5 laptop
