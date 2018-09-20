@@ -1,4 +1,10 @@
 
+C#7 Programming with Visual Studio 2017
+=======================================
+sample code repository
+github.com/benperk/BeginningCSharp7
+on acer I5, I used the option to reset settings to C#, but saved existing settings-they are in appdata somewhere...
+
 
 Visual Studio
 =============
